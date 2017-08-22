@@ -30,6 +30,10 @@
 	* 開啟「終端機」(Terminal)後鍵入 ```defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'``` ，按下 Enter 後，在輸入第二個指令 ```killall Dock``` ，即可發現你多了一個「可以拖拉」的空格在 Dock 上，這個方式可以讓你把同樣性質的 App 集中放，讓你工作時找 Dock 上的 App 更快速！底下是我分類的圖式：
 	
 	![Dock_1.png](Dock/Dock_1.png)
+	
+* 微調聲音： ```alt + shift + F11 or F12``` ，可以微調聲音（平常的 1/4 ）
+
+* 螢幕截圖： ```command + shift + 3``` 整個螢幕截圖；```command + shift + 4``` 選取範圍截圖。
 
 ## Automator 自動化機器人用法
 
