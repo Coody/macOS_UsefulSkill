@@ -11,7 +11,7 @@
 * [Evom](http://thelittleappfactory.com)，影片直轉 MP3 的免費軟體：
 	* 這裡補個小技巧，將此軟體拉到 Finder 上方，每次將影片用拖拉即可轉成 MP3。
 	
-	![Evom_1.png](Evom/Evom_1.png)
+	![Evom_1.png](Evom/Evom_3.png)
 	
 	拖拉過去放掉以後，就會出現如下圖：
 	
