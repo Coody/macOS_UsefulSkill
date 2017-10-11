@@ -35,6 +35,14 @@
 
 * 螢幕截圖： ```command + shift + 3``` 整個螢幕截圖；```command + shift + 4``` 選取範圍截圖。
 
+* 有人曾經問過我：再使用觸控板的情況下，拖拉視窗非常的麻煩。放心 Apple 都幫你想好了，這個好用的設定藏在一個很不起眼的地方：
+![touchbar1](Touchpad/touchpad1.png)
+![touchbar1](Touchpad/touchpad2.png)
+![touchbar1](Touchpad/touchpad3.png)
+![touchbar1](Touchpad/touchpad4.png)
+	* 這裡設定
+
+
 ## Automator 自動化機器人用法
 
 待補
