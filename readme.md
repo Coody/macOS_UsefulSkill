@@ -48,7 +48,7 @@
 		
 ## macOS 10.12.6 使用 eGPU 安裝外接顯卡（顯卡： Radeon RX 560 ）
 
-* 待補...
+* [詳細請點我](extandGraphicCard/)
 
 
 ## Automator 自動化機器人用法
