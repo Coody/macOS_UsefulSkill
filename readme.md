@@ -5,8 +5,9 @@
 
 ## 第三方軟體
 
-* [Launcher](https://itunes.apple.com/tw/app/launcher/id402270706?l=zh&mt=12)：
+* [Alfred](https://www.alfredapp.com)：
 	* 這軟體絕對能提昇你工作效率至少 100%，不管是快速打開網址、快速查詢各種資料（透過 google , youtube 等等，可以自設快捷鍵的定義），或是查英文單字、算數（連三角函數跟 pi 都可以做運算）。
+	* [使用技巧詳細教學](Alfred/)
 
 * [Evom](http://thelittleappfactory.com)，影片直轉 MP3 的免費軟體：
 	* 這裡補個小技巧，將此軟體拉到 Finder 上方，每次將影片用拖拉即可轉成 MP3。
