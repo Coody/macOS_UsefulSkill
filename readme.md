@@ -40,7 +40,14 @@
 ![touchbar1](Touchpad/touchpad2.png)
 ![touchbar1](Touchpad/touchpad3.png)
 ![touchbar1](Touchpad/touchpad4.png)
-	* 這裡設定
+	* 這裡設定有三個選擇：
+		1. 不帶拖移鎖定  <-- 表示點擊了視窗可以拖拉處之後，鼠標移動到哪裡，視窗不會跟著動，直到你下次點擊，視窗就會移動到該處。
+		2. 帶拖移鎖定   <-- 同上，只是當你鼠標移動的時候，視窗會跟著動而已。
+		3. 三指拖移    <-- 當你將鼠標放置在視窗可拖移處，然後用三隻手指滑動時，視窗會跟著滑動。
+		
+## macOS 10.12.6 使用 eGPU 安裝外接顯卡（顯卡： Radeon RX 560 ）
+
+* 待補...
 
 
 ## Automator 自動化機器人用法
