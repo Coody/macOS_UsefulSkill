@@ -7,10 +7,11 @@
 ### 所需要的軟體、硬體
 
 * macOS 10.12.3 以上
-* mac 硬體要有 Thunderbolt （1,2,3 皆可）（我的機器是 2012 macbook pro 15" Thunderbolt 1 ）
+* mac 硬體要有 Thunderbolt （1,2,3 皆可）（我的機器是 2012 macbook pro 15" Thunderbolt 1 ）。至於要如何確認你的 mac 有 Thunderbolt 呢？很簡單，只要你的接口處，有個 ![閃電](Thunderbolt.png)閃電的符號，那就表示是 Thunderbolt ，至於是 Thunderbolt 1,2 ，那就要上 [Apple 的網站](https://support.apple.com/zh-tw/HT204154) 去查詢了。
 * 一個 Thunderbolt + PCIe 設備，如：[Akitio 的雷霆 PCIe 轉接盒](http://www.akitio.com.tw/accessories/thunder2-pcie-box)（可以不用高瓦數電源供應器，廠商說明內說不能外接顯卡，但是經過測試是 OK 的，但要另外買一個 350W 以上的電源供應器）
 * 如果你買的 PCIe 不包含電源供應器，則必須自己去買一個，最好 350W 以上的。
 * 迴紋針（讓電源供應器不用透過主機板也可以 run 起來）。
+* 
 * 待補...
 
 ### 相關連結
