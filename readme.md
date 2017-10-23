@@ -27,14 +27,23 @@
 
 ## 技巧
 
-* Dock 分類放（使用空格技巧）：
+* __常用功能放上 Finder 、變更 Finder 上方的排列方式。__
+	* 在 Finder 上方直接滑鼠右鍵點擊
+
+	![finder1.png](Finder/finder1.png)
+
+	* 出現可以調整的空格、以及基本系統提供的功能
+	
+	![finder2.png](Finder/finder2.png)
+
+* __Dock 分類放（使用空格技巧）：__
 	* 開啟「終端機」(Terminal)後鍵入 ```defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'``` ，按下 Enter 後，在輸入第二個指令 ```killall Dock``` ，即可發現你多了一個「可以拖拉」的空格在 Dock 上，這個方式可以讓你把同樣性質的 App 集中放，讓你工作時找 Dock 上的 App 更快速！底下是我分類的圖式：
 	
 	![Dock_1.png](Dock/Dock_1.png)
 	
-* 微調聲音： ```alt + shift + F11 or F12``` ，可以微調聲音（平常的 1/4 ）
+* __微調聲音：__ ```alt + shift + F11 or F12``` ，可以微調聲音（平常的 1/4 ）
 
-* 螢幕截圖： ```command + shift + 3``` 整個螢幕截圖；```command + shift + 4``` 選取範圍截圖。
+* __螢幕截圖：__ ```command + shift + 3``` 整個螢幕截圖；```command + shift + 4``` 選取範圍截圖。
 
 * 有人曾經問過我：再使用觸控板的情況下，拖拉視窗非常的麻煩。放心 Apple 都幫你想好了，這個好用的設定藏在一個很不起眼的地方：
 ![touchbar1](Touchpad/touchpad1.png)
@@ -69,3 +78,4 @@
 	PID=`pgrep -f WindowServer`
 	sudo log config --process=$PID --mode "level:off"
 	```
+	* 簡易說明一下內部做的事情，就是找出 WindowServer 這個執行的 pid ，然後把這個 pid 的 swho log 取消掉。
