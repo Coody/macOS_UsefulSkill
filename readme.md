@@ -22,7 +22,7 @@
 	* PS：如何將應用程式拖拉到工具列上，很簡單，只要你在拖拉應用程式的時候，按下 command 鍵（不要放）然後拖拉到上方 Bar 就會看到應用程式旁邊多一個 + 號，放掉即可固定在 Finder 上方，然後再自行調整適當位置。
 
 * [Go2Shell](https://itunes.apple.com/tw/app/go2shell/id445770608?l=zh&mt=12):快速在此資料夾打開「終端機」(Terminal)：
-	* 如何快速開啟 AppStore 上面的圖片已經說明的很清楚了wwwwww（就用上面所提的固定應用程式到 Finder 的方式即可）
+	* 如何快速開啟 AppStore 上面的圖片已經說明的很清楚了（使用上面所提的「固定應用程式到 Finder 的方式」即可）
 
 
 ## 技巧
