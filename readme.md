@@ -64,6 +64,13 @@
 
 待補
 
+## 常用的 ShellScript
+* 開啟/關閉所有隱藏檔案： showAllFile.sh
+  使用方式
+  1. 打開終端機。
+  2. 在終端機底下輸入 ```sh showAllFile.sh 1``` 即可。
+
+
 ## Issue
 
 * USB displayLink 發生 macOS 瘋狂寫入 log ，造成 CPU 滿載問題，請服用這資料夾下的 ```stopWindowServerLog.sh``` ，點擊兩下，輸入你帳號的密碼（因為是 sudo 命令）即可。
