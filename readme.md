@@ -68,7 +68,7 @@
 * 開啟/關閉所有隱藏檔案： showAllFile.sh
   使用方式
   1. 打開終端機。
-  2. 在終端機底下輸入 ```sh showAllFile.sh 1``` 即可。
+  2. 在終端機底下輸入 ```sh showAllFile.sh YES``` 即可。
 
 
 ## Issue
