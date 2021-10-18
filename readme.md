@@ -85,4 +85,4 @@
 	PID=`pgrep -f WindowServer`
 	sudo log config --process=$PID --mode "level:off"
 	```
-	* 簡易說明一下內部做的事情，就是找出 WindowServer 這個執行的 pid ，然後把這個 pid 的 swho log 取消掉。
+	* 簡易說明一下內部做的事情，就是找出 WindowServer 這個執行的 pid ，然後把這個 pid 的 show log 取消掉。
