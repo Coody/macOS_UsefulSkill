@@ -3,7 +3,7 @@
 
 isShow=$1
 
-if [ "${isShow}" == 'YES' ] || [ "${isShow}" == '1' ] ; then
+if [ "${isShow}" == 'true' ] || [ "${isShow}" == '1' ] ; then
   defaults write com.apple.finder AppleShowAllFiles TRUE;\killall Finder
 else
   defaults write com.apple.finder AppleShowAllFiles FALSE;\killall Finder
